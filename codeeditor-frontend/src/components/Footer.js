@@ -8,7 +8,7 @@ const Footer = () => {
                 <a style={{color:'white'}} target=".blank" href="https://www.linkedin.com/in/monu-paswan-b61212211/"><i className="fab fa-linkedin-in" style={{padding:'5px'}}></i></a>
             </div>
             <div className="footer-message">
-                Developed with  <i className="fas fa-heart"></i>  by Monu
+                Developed with  <i className="fas fa-heart"></i>  by Akashdeep
             </div>
         </div>
     )
